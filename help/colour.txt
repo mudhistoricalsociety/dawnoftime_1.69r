@@ -1,0 +1,49 @@
+#HELPFILEDATA
+colourcode `
+security 7
+END
+
+#HELPENTRIES
+keyword COLOURS COLOUR-CODES COLORS ANSI ANSI-COLOR~
+helpflags wordwrapped~
+category undefined~
+text `=lSyntax:`=? colour <options>`+
+`+
+The colour system is extremely flexible, and allows the reassignment of over 
+120 different colour allocations within the game (using the '`=Ccolour show`=?' 
+and '`=Ccolour set`=?' commands).  In addition it supports mud wide colour 
+templates which you can easily switch to then customize (`=Ccolour use`=?).`+
+`#`+
+The colour prefix 'escape character' to specify a colour is the left handed 
+brace '``', following that you should use one of the following letters,`+
+`=?      `R``R`r``r     red     `C``C`c``c     cyan`+
+`=?      `G``G`g``g     green   `Y``Y`y``y     yellow`+
+`=?      `B``B`b``b     blue    `W``W`=?``=?    white`+
+`=?      `M``M`m``m     magenta `X``X`=?``=?    clear(reset colour)`+
+`=?      ````       `` char  `S``S`S``s     silver`=?`+
+`=?      `=?``?       `?`#random  `=?```-       tilde character`=?`+
+`=?      `=?``#       save    `^``^       restore`=?`+
+`+
+Use a capital letter for a highlighted version of a colour.`+
+`+
+Example: ``#``CYay!``^ will give you `#`CYay!`^`+
+`+
+If you want more than one colour, you start the colour change  with ``# and 
+change the other colours within the text. You end  it with ``^.`+
+`=? Example: I love ``?colours. ``#``=?Yes, ``YI ``=?do ``Mlove ``^them.``=?`+
+`=?          I love `?colours. `#`=?Yes, `YI `=?do `Mlove `^them.`+
+`+
+`=?Notice that in the above example, the word 'colours' is a random colour, 
+and the word 'them' is the same colour... this is because the random colour 
+(made with `Y``?`=?) was saved with the `Y``#`=? code then restored with the `Y``^`=? code.`+
+`+
+If you are used to using another colour prefix character, you can change 
+your prefix using the '`=Ccolour prefix`=?' command.`+
+`+
+For a complete list of the colour commands available to you, type `=Ccolour`=? 
+by itself. 
+~
+END
+
+EOF~
+#$

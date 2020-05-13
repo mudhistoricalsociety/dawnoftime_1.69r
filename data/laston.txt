@@ -1,0 +1,76 @@
+name Samson~
+id 1079754619
+know_index 10
+lastonflags automap allowimmtalk~
+sex male~
+played 983
+logout_room 7359
+Race  orc~
+Class  thief~
+xp 1680
+short_descr a male orc~
+terminal_type LINUX~
+host[0] unresolved'::ffff:127.0.0.1'~
+host[1] boralis.arthmoor.com~
+host[2] boralis.arthmoor.com~
+host[3] boralis.arthmoor.com~
+host[4] boralis.arthmoor.com~
+host[5] boralis.arthmoor.com~
+host[6] boralis.arthmoor.com~
+ip[0] ::ffff:127.0.0.1~
+ip[1] 127.0.0.1~
+ip[2] 127.0.0.1~
+ip[3] 127.0.0.1~
+ip[4] 127.0.0.1~
+ip[5] 127.0.0.1~
+ip[6] 127.0.0.1~
+level[0] 91
+level[1] 91
+level[2] 91
+level[3] 91
+level[4] 91
+level[5] 91
+level[6] 91
+on[0] 1098574701
+on[1] 1082860194
+on[2] 1082860519
+on[3] 1082860741
+on[4] 1084759523
+on[5] 1084847415
+on[6] 1085953600
+off[0] 1098574718
+off[1] 1082860273
+off[2] 1082860688
+off[3] 1082860837
+off[4] 1084759538
+off[5] 1084847441
+off[6] 1085953607
+END
+
+name Kisada~
+id 1089438163
+know_index 11
+lastonflags automap allowimmtalk~
+sex male~
+played 788
+logout_room 7334
+Race  lizardman~
+Class  barbarian~
+xp 2100
+alliance 1
+tendency -2
+short_descr a male lizardman~
+index 1
+host[0] 24-117-106-236.cpe.cableone.net~
+host[1] 24-117-106-236.cpe.cableone.net~
+ip[0] ::ffff:24.117.106.236~
+ip[1] ::ffff:24.117.106.236~
+level[0] 1
+level[1] 1
+on[0] 1089438600
+on[1] 1089438959
+off[0] 1089438951
+off[1] 1089439292
+END
+
+EOF~

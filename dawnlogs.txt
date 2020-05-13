@@ -1,0 +1,158 @@
+[9586] Sat Mar 20 09:19:51 :: ============================================
+[9586] Sat Mar 20 09:19:51 :: dawn logging to logs/game/4000-040320-01.log
+[9587] Sat Mar 20 09:19:53 :: dawn bindings Mar 20 09:19:51:resolver: [contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='http' protocol='ipv4' address='0.0.0.0' port='4001']
+[9622] Sat Mar 20 09:22:44 :: ============================================
+[9622] Sat Mar 20 09:22:44 :: dawn logging to logs/game/4000-040320-02.log
+[9623] Sat Mar 20 09:22:46 :: dawn bindings version_response 1.5[contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='http' protocol='ipv4' address='0.0.0.0' port='4001']
+[21677] Sat Apr 24 19:28:50 :: ============================================
+[21677] Sat Apr 24 19:28:50 :: dawn logging to logs/game/4000-040424-01.log
+[21678] Sat Apr 24 19:28:53 :: dawn bindings Apr 24 19:28:51:resolver: [contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='http' protocol='ipv4' address='0.0.0.0' port='4001']
+[21733] Sat Apr 24 19:35:10 :: ============================================
+[21733] Sat Apr 24 19:35:10 :: dawn logging to logs/game/4000-040424-02.log
+[21734] Sat Apr 24 19:35:12 :: dawn bindings Apr 24 19:35:10:resolver: [contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='http' protocol='ipv4' address='0.0.0.0' port='4001']
+[30093] Sat May  1 23:24:15 :: ============================================
+[30093] Sat May  1 23:24:15 :: dawn logging to logs/game/4000-040501-02.log
+[30094] Sat May  1 23:24:18 :: dawn bindings May  1 23:24:15:resolver: [contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='4000'][contype='http' protocol='ipv4' address='0.0.0.0' port='4001']
+[11200] Tue May 18 15:44:48 :: ============================================
+[11200] Tue May 18 15:44:48 :: dawn logging to logs/game/5555-040518-01.log
+[11201] Tue May 18 15:44:50 :: dawn bindings May 18 15:44:48:resolver: [contype='telnet' protocol='ipv4' address='0.0.0.0' port='5555'][contype='telnet' protocol='ipv4' address='0.0.0.0' port='5555'][contype='http' protocol='ipv4' address='0.0.0.0' port='5556']
+[5229] Wed Jun  2 04:50:42 :: ============================================
+[5229] Wed Jun  2 04:50:42 :: dawn logging to logs/game/4000-040602-01.log
+[5230] Wed Jun  2 04:50:45 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='4000'][contype='telnet' protocol='ipv6' address='::' port='4000'][contype='http' protocol='ipv6' address='::' port='4001'][contype='http' protocol='ipv6' address='::' port='4001']
+[5236] Wed Jun  2 04:51:06 :: ============================================
+[5236] Wed Jun  2 04:51:06 :: dawn logging to logs/game/5555-040602-01.log
+[5237] Wed Jun  2 04:51:07 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[20459] Sun Jun  6 10:14:33 :: ============================================
+[20459] Sun Jun  6 10:14:33 :: dawn logging to logs/game/5555-040606-01.log
+[20460] Sun Jun  6 10:14:36 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[26923] Sat Jun 12 23:50:24 :: ============================================
+[26923] Sat Jun 12 23:50:24 :: dawn logging to logs/game/5555-040612-02.log
+[26924] Sat Jun 12 23:50:26 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[6664] Sun Jun 13 17:54:41 :: ============================================
+[6664] Sun Jun 13 17:54:41 :: dawn logging to logs/game/5555-040613-02.log
+[6665] Sun Jun 13 17:54:43 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[4888] Fri Jun 18 18:59:10 :: ============================================
+[4888] Fri Jun 18 18:59:10 :: dawn logging to logs/game/5555-040618-01.log
+[4889] Fri Jun 18 18:59:11 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1983] Fri Jun 18 20:08:52 :: ============================================
+[1983] Fri Jun 18 20:08:52 :: dawn logging to logs/game/5555-040618-02.log
+[1984] Fri Jun 18 20:08:55 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[21095] Sun Jun 20 11:15:09 :: ============================================
+[21095] Sun Jun 20 11:15:09 :: dawn logging to logs/game/5555-040620-02.log
+[21096] Sun Jun 20 11:15:10 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[6244] Wed Jun 30 19:35:27 :: ============================================
+[6244] Wed Jun 30 19:35:27 :: dawn logging to logs/game/4000-040630-01.log
+[6245] Wed Jun 30 19:35:27 :: Mud failed to complete the startup process.
+The startup process was terminated by startup_exit()
+With a message of: exiting due to netio startup errors
+[6245] Wed Jun 30 19:35:27 :: The last bug text in the log reads:
+socket_error(): Init socket: bind '0.0.0.0:4001' - error 98 (Address already in use)
+[6245] Wed Jun 30 19:35:27 :: This may or may not be related to why the mud didn't complete starting up, review the main log for more details.
+[6248] Wed Jun 30 19:35:45 :: ============================================
+[6248] Wed Jun 30 19:35:45 :: dawn logging to logs/game/5555-040630-02.log
+[6249] Wed Jun 30 19:35:46 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2025] Sat Jul  3 16:51:34 :: ============================================
+[2025] Sat Jul  3 16:51:34 :: dawn logging to logs/game/5555-040703-02.log
+[2026] Sat Jul  3 16:51:38 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2013] Wed Jul  7 14:18:50 :: ============================================
+[2013] Wed Jul  7 14:18:50 :: dawn logging to logs/game/5555-040707-02.log
+[2014] Wed Jul  7 14:18:54 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[5118] Sun Aug  1 00:25:15 :: ============================================
+[5118] Sun Aug  1 00:25:15 :: dawn logging to logs/game/4000-040801-01.log
+[5119] Sun Aug  1 00:25:17 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='4000'][contype='telnet' protocol='ipv6' address='::' port='4000'][contype='http' protocol='ipv6' address='::' port='4001'][contype='http' protocol='ipv6' address='::' port='4001']
+[5124] Sun Aug  1 00:25:30 :: ============================================
+[5124] Sun Aug  1 00:25:30 :: dawn logging to logs/game/5555-040801-02.log
+[5125] Sun Aug  1 00:25:31 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[717] Sat Aug 14 12:33:05 :: ============================================
+[717] Sat Aug 14 12:33:05 :: dawn logging to logs/game/5555-040814-02.log
+[718] Sat Aug 14 12:33:07 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1237] Sat Aug 14 12:36:24 :: ============================================
+[1237] Sat Aug 14 12:36:24 :: dawn logging to logs/game/5555-040814-03.log
+[1238] Sat Aug 14 12:36:25 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[9163] Sat Aug 14 22:36:14 :: ============================================
+[9163] Sat Aug 14 22:36:14 :: dawn logging to logs/game/5555-040814-04.log
+[9164] Sat Aug 14 22:36:16 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[10623] Sat Aug 21 14:48:31 :: ============================================
+[10623] Sat Aug 21 14:48:31 :: dawn logging to logs/game/5555-040821-02.log
+[10624] Sat Aug 21 14:48:33 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2922] Sat Sep 18 09:17:32 :: ============================================
+[2922] Sat Sep 18 09:17:32 :: dawn logging to logs/game/5555-040918-02.log
+[2924] Sat Sep 18 09:17:35 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[3007] Sat Sep 18 09:20:16 :: ============================================
+[3007] Sat Sep 18 09:20:16 :: dawn logging to logs/game/5555-040918-03.log
+[3008] Sat Sep 18 09:20:17 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[11687] Sun Sep 26 06:17:20 :: ============================================
+[11687] Sun Sep 26 06:17:20 :: dawn logging to logs/game/5555-040926-01.log
+[11688] Sun Sep 26 06:17:22 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[25716] Thu Oct 21 19:28:29 :: ============================================
+[25716] Thu Oct 21 19:28:29 :: dawn logging to logs/game/5555-041021-02.log
+[25717] Thu Oct 21 19:28:30 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[26207] Thu Oct 21 19:31:51 :: ============================================
+[26207] Thu Oct 21 19:31:51 :: dawn logging to logs/game/5555-041021-03.log
+[26208] Thu Oct 21 19:31:52 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[10209] Sat Oct 23 18:08:27 :: ============================================
+[10209] Sat Oct 23 18:08:27 :: dawn logging to logs/game/5555-041023-02.log
+[10210] Sat Oct 23 18:08:29 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[6502] Fri Oct 29 19:38:32 :: ============================================
+[6502] Fri Oct 29 19:38:32 :: dawn logging to logs/game/5555-041029-02.log
+[6503] Fri Oct 29 19:38:34 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1841] Sat Nov  6 13:19:38 :: ============================================
+[1841] Sat Nov  6 13:19:38 :: dawn logging to logs/game/5555-041106-02.log
+[1842] Sat Nov  6 13:19:41 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[11267] Sun Nov  7 00:37:12 :: ============================================
+[11267] Sun Nov  7 00:37:12 :: dawn logging to logs/game/5555-041107-02.log
+[11268] Sun Nov  7 00:37:14 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[17546] Sun Nov  7 11:02:02 :: ============================================
+[17546] Sun Nov  7 11:02:02 :: dawn logging to logs/game/5555-041107-03.log
+[17548] Sun Nov  7 11:02:04 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[20659] Sat Nov 13 16:19:55 :: ============================================
+[20659] Sat Nov 13 16:19:55 :: dawn logging to logs/game/5555-041113-02.log
+[20660] Sat Nov 13 16:19:57 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[22186] Sat Nov 20 13:04:50 :: ============================================
+[22186] Sat Nov 20 13:04:50 :: dawn logging to logs/game/5555-041120-02.log
+[22187] Sat Nov 20 13:04:53 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[28325] Sat Nov 20 23:27:57 :: ============================================
+[28325] Sat Nov 20 23:27:57 :: dawn logging to logs/game/5555-041120-03.log
+[28326] Sat Nov 20 23:27:58 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1890] Thu Nov 25 17:07:35 :: ============================================
+[1890] Thu Nov 25 17:07:35 :: dawn logging to logs/game/5555-041125-02.log
+[1891] Thu Nov 25 17:07:38 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[19470] Sat Nov 27 09:12:40 :: ============================================
+[19470] Sat Nov 27 09:12:40 :: dawn logging to logs/game/5555-041127-02.log
+[19471] Sat Nov 27 09:12:42 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2058] Sun Jan  9 10:48:10 :: ============================================
+[2058] Sun Jan  9 10:48:10 :: dawn logging to logs/game/5555-050109-02.log
+[2059] Sun Jan  9 10:48:14 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2908] Sat Jan 15 15:23:21 :: ============================================
+[2908] Sat Jan 15 15:23:21 :: dawn logging to logs/game/5555-050115-02.log
+[2909] Sat Jan 15 15:23:25 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[9777] Tue Jan 25 18:17:37 :: ============================================
+[9777] Tue Jan 25 18:17:37 :: dawn logging to logs/game/5555-050125-02.log
+[9778] Tue Jan 25 18:17:39 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[10286] Tue Jan 25 18:21:13 :: ============================================
+[10286] Tue Jan 25 18:21:13 :: dawn logging to logs/game/5555-050125-03.log
+[10287] Tue Jan 25 18:21:14 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2942] Fri Feb 11 19:10:59 :: ============================================
+[2942] Fri Feb 11 19:10:59 :: dawn logging to logs/game/5555-050211-02.log
+[2953] Fri Feb 11 19:11:07 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2850] Mon Apr 11 19:16:01 :: ============================================
+[2850] Mon Apr 11 19:16:01 :: dawn logging to logs/game/5555-050411-02.log
+[2869] Mon Apr 11 19:16:15 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1487] Sat Dec 10 19:02:57 :: ============================================
+[1487] Sat Dec 10 19:02:57 :: dawn logging to logs/game/5555-051210-01.log
+[1488] Sat Dec 10 19:02:59 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1507] Sat Dec 10 19:04:38 :: ============================================
+[1507] Sat Dec 10 19:04:38 :: dawn logging to logs/game/5555-051210-02.log
+[1508] Sat Dec 10 19:04:38 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[1512] Sat Dec 10 19:04:43 :: ============================================
+[1512] Sat Dec 10 19:04:43 :: dawn logging to logs/game/5555-051210-03.log
+[1513] Sat Dec 10 19:04:44 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[2065] Sat Dec 10 19:06:18 :: ============================================
+[2065] Sat Dec 10 19:06:18 :: dawn logging to logs/game/5555-051210-04.log
+[2066] Sat Dec 10 19:06:19 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[10816] Sat Jan 14 16:46:44 :: ============================================
+[10816] Sat Jan 14 16:46:44 :: dawn logging to logs/game/5555-060114-01.log
+[10817] Sat Jan 14 16:46:47 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']
+[11335] Sat Jan 14 16:49:17 :: ============================================
+[11335] Sat Jan 14 16:49:17 :: dawn logging to logs/game/5555-060114-02.log
+[11336] Sat Jan 14 16:49:18 :: dawn bindings [contype='telnet' protocol='ipv6' address='::' port='5555'][contype='telnet' protocol='ipv6' address='::' port='5555'][contype='http' protocol='ipv6' address='::' port='5556'][contype='http' protocol='ipv6' address='::' port='5556']

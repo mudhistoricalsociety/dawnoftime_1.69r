@@ -1,0 +1,150 @@
+gamename Dawn v1.69r based mud on boralis.arthmoor.com~
+max_string 5340032
+listen_on telnet://:+0,http://:+1~
+area_import_format stock~
+area_import_flags 
+	importing_enabled~
+config_create_coredump_at_end_of_nasty_signal_handler 0
+irclogs_dir .../irc/logs/~
+login_prompt `WBy What Name Do You Wish To Be Called?`x ~
+msp_url http://msp.url.needs.to.be.set.in.gameedit/download/msp/~
+default_who_format dawn~
+help_header_bar -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-~
+help_footer_bar -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-~
+help_prevnext_footer_bar -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-~
+realm_name mythrin~
+mud_default_battlelag_text `^`RBattleLagged`&~
+unique_id 342079384
+port_default 4000
+style_sheet .
+/* note this style sheet can be edited using the gameedit stylesheet command */
+body, blockquote {
+  background-color: #000000;
+  font-size: 10pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: justify;
+}
+
+/* Links */
+a:link {color:white ; font-weight:bold ; text-decoration:underline}
+a:active {color:white ; font-weight:bold ; text-decoration:underline}
+a:visited {color:white ; font-weight:bold ; text-decoration:underline}
+a:hover {color:#AFAFAF ; text-decoration:none}
+
+~
+flags 
+	no_letgaining_required
+	morgue_enabled~
+flags2 
+	no_autologoff_for_imm~
+flags3 
+	gain_hp_when_leveling
+	info_broadcasts_enabled
+	automatic_letheroing~
+uneditable_flags 
+	manual_colour_convert_performed~
+damage_scale_value 2625
+roomvnum_limbo 2
+roll_max_total 630
+icyear_offset 780
+alarm_boot_db_abort_threshold 120
+alarm_running_abort_threshold 25
+alarm_running_dns_abort_threshold 70
+alarm_frequency 30
+automatic_offlineletgain_after_x_days 3
+roomvnum_newbie_recall 7359
+roomvnum_starttelnet 7370
+roomvnum_startirc 7370
+roomvnum_court_recall 3000
+roomvnum_ooc 30000
+roomvnum_good_recall 3000
+roomvnum_evil_recall 27003
+roomvnum_pkport_death_room 3
+thief_system_tagged_duration 1440
+killer_system_tagged_duration 86400
+killer_system_death_reduction_duration 28800
+global_scale_hitpoints_regen_rate 100
+global_scale_mana_regen_rate 100
+global_scale_movement_regen_rate 100
+roomvnum_jail 299
+aura_invis `#`s(Invis)`& ~
+aura_evil `#`R(Red Aura)`& ~
+aura_good `#`B(Blue Aura)`& ~
+aura_magical `#`G(Magical)`& ~
+aura_glowing `#`Y(Glowing)`& ~
+aura_chaos `#`?(Chaos)`& ~
+aura_hum `#`g(Humming)`& ~
+aura_buried `#`Y(Buried)`& ~
+aura_holy `#`W(Holy)`& ~
+aura_unholy `#`y(UnHoly)`& ~
+aura_flaming `#`R(Flaming)`& ~
+aura_vampric `#`r(Wicked)`& ~
+aura_shocking `#`Y(Shocking)`& ~
+aura_frost `#`C(Freezing)`& ~
+laston_remove_deleted_players_0_4 2
+laston_remove_deleted_players_5_34 7
+laston_remove_deleted_players_35_64 21
+laston_remove_deleted_players_65_91 60
+laston_remove_deleted_players_92 500
+laston_level_for_immortal_version 92
+days_lockers_stored_for 60
+min_level_to_load_objects 95
+max_hp_from_heal_spell 50
+max_level_before_letgaining 25
+max_rerolls 100
+max_mob_level 300
+max_obj_level 300
+obj_vnum_world_map 26
+obj_vnum_good_city_map 27
+obj_vnum_evil_city_map 28
+obj_vnum_divine_light 29
+obj_vnum_rose 30
+obj_vnum_raft 33
+obj_vnum_newbie_guide 34
+obj_vnum_rp_item 36
+obj_vnum_spirit_hammer 37
+obj_vnum_staff 38
+obj_vnum_druidstaff 60
+obj_vnum_totemstaff 61
+obj_vnum_summon_justice 81
+obj_vnum_pit 420
+obj_vnum_outfit_mace 400
+obj_vnum_outfit_dagger 401
+obj_vnum_outfit_sword 402
+obj_vnum_outfit_staff 403
+obj_vnum_outfit_axe 404
+obj_vnum_outfit_flail 405
+obj_vnum_outfit_whip 406
+obj_vnum_outfit_polearm 407
+obj_vnum_outfit_sickle 408
+obj_vnum_outfit_vest 409
+obj_vnum_outfit_shield 410
+obj_vnum_outfit_light 411
+obj_vnum_outfit_sleeves 412
+obj_vnum_outfit_cap 413
+obj_vnum_outfit_gloves 414
+obj_vnum_outfit_leggings 415
+obj_vnum_outfit_boots 416
+obj_vnum_outfit_belt 417
+mob_vnum_summon_guardian 80
+mob_vnum_vyr_good 106
+mob_vnum_vyr_bad 107
+roomvnum_morgue 3120
+roomvnum_weapon_donate 3068
+roomvnum_armor_donate 3068
+roomvnum_misc_donate 3068
+roomvnum_newbieweapon_donate 3068
+roomvnum_newbiearmor_donate 3068
+roomvnum_newbiemisc_donate 3068
+newbie_start_silver 1000
+newbie_start_practice 10
+newbie_start_train 5
+global_xp_scale_value 100
+minimum_note_notify_level 2
+olc_max_vnum 65000
+default_newbie_security_on_olc_port 2
+xp_loss_for_fleeing 10
+END
+
+EOF~

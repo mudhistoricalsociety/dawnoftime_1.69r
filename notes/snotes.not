@@ -1,0 +1,65 @@
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sat Mar 20 09:22:46 2004~
+Stamp   1079803366
+To      imm~
+Subject Last recorded command before crash~
+Text
+(Finished) [27100] a minotaur pianist in [27073] The Trellis: emote sings "A 
+kiss is but a kiss..." (emote) Start input 9> [    0] Samson in [ 7359] New 
+Player Recall Point:  
+~
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sat Mar 20 09:22:47 2004~
+Stamp   1079803367
+To      admin~
+Subject recorded details before crash~
+Text
+(Finished) [27100] a minotaur pianist in [27073] The Trellis: emote sings "A 
+kiss is but a kiss..." (emote)`1Start input 9> [    0] Samson in [ 7359] New Player Recall Point:  `1======INPUTTAIL LOG`1`x09:20:06 input from socket 9 - no character attached:  `1`x09:21:30 input from socket 9 - no character attached: samson`1`x09:21:32 Samson<0> (9) R7359 C2 E0 '<a password of some kind - hidden>'`1`x09:21:33 Samson<0> (9) R7359 C14 E0 ' '`1`x09:21:34 Samson<0> (9) R7359 C14 E0 ' '`1`xR = Room vnum, C = Connected state, E = olc editor mode... inputtail does 
+not include force or ordered commands.`1`x-= Dawn v1.69r based mud on boralis.arthmoor.com was last compiled on Mar 
+20 2004 at 09:18:48 (c++ build)=-`1`x
+~
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sun Sep 26 06:17:22 2004~
+Stamp   1096204642
+To      imm~
+Subject Last recorded command before crash~
+Text
+(Finished) [ 4902] a happy cook in [ 4903] The Kitchen: emote begins 
+stirring the pot of oatmeal again. (emote) ======INPUTTAIL LOG
+~
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sun Sep 26 06:17:23 2004~
+Stamp   1096204643
+To      admin~
+Subject recorded details before crash~
+Text
+(Finished) [ 4902] a happy cook in [ 4903] The Kitchen: emote begins 
+stirring the pot of oatmeal again. (emote)`1======INPUTTAIL LOG`1No inputtail data to dump`1`x-= Dawn v1.69r based mud on boralis.arthmoor.com was last compiled on Sep 
+18 2004 at 09:16:34 (c++ build)=-`1`x
+~
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sat Jan 14 16:46:47 2006~
+Stamp   1137286007
+To      imm~
+Subject Last recorded command before crash~
+Text
+(Finished) [18108] a lost, frightened child in [18113] Walkway: say I want 
+my mommy!!! (say) ======INPUTTAIL LOG
+~
+Sender  examine_last_command()~
+Real    examine_last_command()~
+Date    Sat Jan 14 16:46:48 2006~
+Stamp   1137286008
+To      admin~
+Subject recorded details before crash~
+Text
+(Finished) [18108] a lost, frightened child in [18113] Walkway: say I want 
+my mommy!!! (say)`1======INPUTTAIL LOG`1No inputtail data to dump`1`x-= Dawn v1.69r based mud on boralis.arthmoor.com was last compiled on Dec 
+10 2005 at 19:06:12 (c++ build)=-`1`x
+~
